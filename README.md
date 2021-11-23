@@ -12,7 +12,7 @@
 ```javascript
 const thai = {
   pronouns: "GrJuan",
-  code: [Javascript, HTML, CSS, Python, Angular, Git, SCRUM]
+  code: [Javascript, HTML, CSS, Python, ReactJS, Git, SCRUM]
   tools: [Node, Bootstrap, Angular Material, SCSS]
   courses{
                         MIsiónTic: "Desarrollo Web",
