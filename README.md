@@ -7,13 +7,13 @@
 [![GitHub GrJuan](https://img.shields.io/github/followers/GrJuan?label=follow&style=social)](https://github.com/GrJuan)
 
 
-### <img src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1572821689/content-items/003/381/611/U4L1_TOTAL-original.gif?1572821689" width="50"> Un Poco Sobre Mi...
+### <img src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1572821689/content-items/003/381/611/U4L1_TOTAL-original.gif?1572821689" width="50"> A little bit about me...
 
 ```javascript
 const thai = {
   pronouns: "GrJuan",
-  code: [Javascript, HTML, CSS, Python, ReactJS, Git, SCRUM]
-  tools: [Node, Bootstrap, Angular Material, SCSS]
+  code: [Typescript, TypeORM, CSS, Python, ReactJS, Git, SCRUM]
+  tools: [Node JS, express, Angular Material, SCSS]
   courses{
                         MIsiónTic: "Desarrollo Web",
                         Platzi: "Desarrollo Web, Python, Ingles, Habilidades Personales...",
