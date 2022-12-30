@@ -12,13 +12,13 @@
 ```javascript
 const thai = {
   pronouns: "GrJuan",
-  code: [Typescript, JavaScript, SCSS, PHP]
-  tools: [Node JS, Express, ReactJS, TypeORM]
+  code: [Typescript, JavaScript, SCSS, PHP],
+  tools: [Node JS, Express, ReactJS, TypeORM],
   courses{
-                        MIsiónTic: "Desarrollo Web",
-                        Platzi: "Desarrollo Web, Python, Ingles, Habilidades Personales...",
-                        Colsubsidio: "Certificación Python"
-                      },
+          MIsiónTic: "Desarrollo Web",
+          Platzi: "Desarrollo Web, Python, Ingles, Habilidades Personales...",
+          Colsubsidio: "Certificación Python"
+         },
 }
 ```
 
