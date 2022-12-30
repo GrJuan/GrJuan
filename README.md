@@ -12,8 +12,8 @@
 ```javascript
 const thai = {
   pronouns: "GrJuan",
-  code: [Typescript, TypeORM, CSS, Python, ReactJS, Git, SCRUM]
-  tools: [Node JS, express, Angular Material, SCSS]
+  code: [Typescript, JavaScript, SCSS, PHP]
+  tools: [Node JS, Express, ReactJS, TypeORM]
   courses{
                         MIsiónTic: "Desarrollo Web",
                         Platzi: "Desarrollo Web, Python, Ingles, Habilidades Personales...",
