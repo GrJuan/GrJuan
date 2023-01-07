@@ -69,7 +69,7 @@ function contactMe() {
 <br>
 
 <div align="center">
-  <a href="https://github.com/ItaloRAmaral">
+  <a href="https://github.com/grjuan">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=grjuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-profile-trophy.vercel.app/?username=grjuan&layout=compact&langs_count=7&theme=dracula"/>
     <img heigh height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloRAmaral&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C"/>
